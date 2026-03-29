@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Ishika Rana
 
-<!--
-**ishika0438/ishika0438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Student | 💻 Aspiring Software Developer  
+Passionate about building, learning, and improving every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+I am a first-year student exploring the world of programming and development.  
+I enjoy solving problems, building projects, and continuously improving my skills.
+
+- 🌱 Currently learning: Data Structures & Algorithms (DSA)
+- 💡 Interested in: Web Development & Problem Solving
+- 🎯 Goal: Become a skilled software engineer
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages
+- Java ☕
+- C 🔵
+
+### 🌐 Web Development
+- HTML 🧱
+- CSS 🎨
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms (DSA)
+- Problem-solving techniques
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+Here are some of my projects:
+
+- 🔹 Beginner friendly  Portfolio Website  
+- 🔹 Basic Web Projects (HTML, CSS)  
+
+👉 More coming soon...
+
+---
+
+## 📈 Goals
+- Improve problem-solving skills
+- Build real-world projects
+- Learn advanced Java and backend development
+- Contribute to open-source
+
+---
+
+## 🤝 Connect With Me
+- GitHub: https://github.com/your-username  
+- LinkedIn: (Add later if you have)
+
+---
+
+## ⭐ Fun Fact
+I believe consistency beats talent 🚀
