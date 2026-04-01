@@ -53,7 +53,7 @@ Here are some of my projects:
 ---
 
 ## 🤝 Connect With Me
-- GitHub: https://github.com/your-username  
+- GitHub: https://github.com/ishika0438 
 - LinkedIn: https://www.linkedin.com/in/ishika-rana-654516374/
 
 ---
